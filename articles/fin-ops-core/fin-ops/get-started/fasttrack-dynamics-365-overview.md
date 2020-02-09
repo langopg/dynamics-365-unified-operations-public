@@ -94,29 +94,26 @@ The typical format is a one-hour Skype call. The recommended attendees include k
 
 ### Solution blueprint workshops
 
-The Solution blueprint workshops are designed to promote understanding of the solution design to facilitate alignment with the approach that Microsoft uses for public cloud deployment, known patterns and best practices, a review of the product roadmap, and project goals and schedule. The initial blueprint review is done early in the implementation. Supplementary reviews are done as the blueprint evolves. Here are some of the topics that these workshops are likely to cover:
+The Solution blueprint workshops are designed to promote understanding of the solution design to facilitate alignment with the approach that Microsoft uses for public cloud deployment, known patterns and best practices, a review of the product roadmap, and project goals and schedule. The initial blueprint review is done early in the implementation. The solution bleuprint review is foundational to the FastTrack engagement.  The solution blueprint review provides the broad view of the proposed solution which the FastTrack architect will use to define the remainder of the engagement.  This review is completed for every FastTrack engagement and other program activities will not commence until it is complete.  Supplementary solution reviews are done as the blueprint evolves. Here are some of the topics that these workshops are likely to cover:
 
-- Solution overview and rollout plan
-- Application component design
-- Inclusions from independent software vendors (ISVs)
-- Instance strategy
-- Environment plan
-- Business process catalog
-- Gap solution design
-- Integration design
+- Implementation Approach and Timelines
+- Process Architecture Design
+- Application Architecture Design
+- Data Architecture Design including Data Model and Migration Plans
+- Integration Architecture
+- Business Intelligence Architecture
+- Security Architecture
+- Continuous Update Architecture
+- Deployment Archtiecture including Instance and Environment Strategy, Business Continuance Planning and Performance
 
-    - Data migration design
-
-- Business intelligence and analytics design
-
-The typical format is a two-to-four-hour Skype call. The recommended attendees include key stakeholders from the customer and partner teams. Solution architects, functional leads, and technical leads are mandatory.
+The typical format is an eight hour Skype call. The recommended attendees include key stakeholders from the customer and partner teams. Solution architects, functional leads, and technical leads are mandatory.
 
 ### Environment planning workshop
 
 The Environment planning workshop is designed to cover the environment planning in more depth. Here are some of the topics that the workshop is likely to cover:
 
-- Environment strategy
-- Project methodology
+- Preproduction environment designs
+- Project methodology 
 - Project schedule and phases
 - Rollout and long-term operations plan
 
@@ -147,10 +144,10 @@ The typical format is a one-to-three-hour Skype call. The recommended attendees 
 
 ### Performance workshop
 
-The Performance workshop is designed for cases where implementers must make sure that performance-related aspects of the implementation are accounted for, and that the correct process and approach are followed to help guarantee performance. Here are some of the topics that the workshop is likely to cover:
+The Performance workshop is designed to provide guidance on the activities that will be executed to ensure performance-related aspects of the implementation are accounted for, and that the correct process and approach are followed to help guarantee performance. Here are some of the topics that the workshop is likely to cover:
 
-- Usage profile
-- Performance testing approach
+- Projected usage profile
+- Solution performacne test plan
 - Performance remediation approach
 
 The typical format is a one-to-three-hour Skype call. The recommended attendees include key stakeholders from the customer and partner teams. Solution architects and technical leads are mandatory.
